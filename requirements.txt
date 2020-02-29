@@ -1,5 +1,4 @@
 Django==3.0.3
 psycopg2==2.8.4
 gunicorn==20.0.4
-pytz==2017.3
-dj-database-url==0.4.2
+pytz==2019.3
